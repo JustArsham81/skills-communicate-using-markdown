@@ -6,3 +6,9 @@
 # <h6> This is an h6 header
 
 ![Image of A Chimpanzee](https://ichef.bbci.co.uk/news/2048/cpsprodpb/3885/production/_129996441_092705.animals-koko--10251884_pictures_pri13-14f4a7301e239a1d5da01393d97635fa9b6ce109.jpg)
+
+
+``` python
+x = "Hello there Mr Chimpanzee!"
+print(x)
+```
